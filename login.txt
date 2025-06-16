@@ -1,0 +1,2 @@
+UI : admin@admin.com
+Password: Password@123
